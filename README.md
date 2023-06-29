@@ -1,2 +1,2 @@
 # Whatsapp.
-Automatizando o WhatsApp utilizndo Lib(Biblioteca).
+Automatizando o WhatsApp utilizando Lib(Biblioteca).
