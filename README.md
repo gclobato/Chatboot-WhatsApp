@@ -1,2 +1,2 @@
-# whatsapp-
-testing  lib to create a bot for automate whatsapp
+# Whatsapp.
+Automatizando o WhatsApp utilizndo Lib(Biblioteca).
